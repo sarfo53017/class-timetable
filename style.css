@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(blue,white)
+}
+h1{
+    text-align: center;
+}
+
+p{
+    border: inset;
+    color: gold;
+}
+
+table{
+    width: 100px;
+    border-collapse: collapse;
+}
