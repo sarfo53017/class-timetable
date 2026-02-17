@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(blue,white)
+    background: linear-gradient(to left, blue,white)
 }
 h1{
     text-align: center;
@@ -13,4 +13,5 @@ p{
 table{
     width: 100px;
     border-collapse: collapse;
+
 }
